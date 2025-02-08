@@ -609,6 +609,9 @@ nav .fa-solid{
         margin-left: 5%;
         margin-top: -1%;
         /* font-size: 22px; */
+        position: fixed;
+        z-index: 2;
+        
 
     }
     nav ul{
