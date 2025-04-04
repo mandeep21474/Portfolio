@@ -320,9 +320,10 @@ nav ul li a:hover::after{
 .work img:hover{
     transform: scale(1.3);
 }
-.info span{
-    margin: 0%;
-    
+.info .link{
+    /* margin: 110%; */
+    position: relative;
+    top: 10%;
     color:rgb(121, 121, 240);
     opacity: 100;
    
